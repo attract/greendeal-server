@@ -1,4 +1,4 @@
-FROM attractgrouphub/alpine-php7-composer-nginx
+FROM attractgrouphub/alpine-php7-nginx-composer
 
 MAINTAINER igorskubiy@attractgroup.com
 
